@@ -1,0 +1,7 @@
+Ilham Pamungkas 
+1606918206 
+APAP - C
+
+
+1. CORS atau cross-origin resource sharing digunakan untuk request ke restricted resources pada suatu web page yang bukan domain website yg dipakai. Jika dihilangkan nanti tidak akan bisa merequest ke API SI Appointmen
+2. jika diganti dengan [key] akan terjadi error 500 internal server error, karena disitu kode mengassign variabel dataJson dengan index 'id' dengan 'value id' 
